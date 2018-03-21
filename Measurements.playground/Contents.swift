@@ -2,7 +2,7 @@
  Measurements Tutorial
  
  Learn Swift SD March 21, 2018
- Clone me from
+ Clone me from https://github.com/enuance/Measurements-Tutorial.git
  */
 
 import UIKit
